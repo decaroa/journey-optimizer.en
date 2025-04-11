@@ -31,7 +31,7 @@ Journey Optimizer allows the export of journeys, content templates, and fragment
 
 ### General best practices {#global}
 
-* When copying an object, any dependencies (such as nested fragments, journey audiences, or actions) are correctly updated in the parent object, ensuring proper mapping in the target sandbox.
+* When copying an object, make sure any dependencies (such as nested fragments, journey audiences, or actions) are correctly updated in the parent object, ensuring proper mapping in the target sandbox.
 
 * If an exported object contains profile personalization, make sure that the appropriate schema exists in the target sandbox to avoid any personalization issue.
 
