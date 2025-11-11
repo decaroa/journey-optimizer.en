@@ -117,9 +117,9 @@ Once your WhatsApp API credentials have been successfully created, the next step
 
     ![](assets/webhook-5.png)
 
-1. To modify existing configuration and access your **[!UICONTROL Webhook URL]** or **[!UICONTROL Webhook Verify toker]**, locate the desired Webhook and click the **[!UICONTROL Edit]** option to make the necessary changes.
+1. To modify existing configuration and access your **[!UICONTROL Webhook URL]** or **[!UICONTROL Webhook Verify token]**, locate the desired Webhook and click the **[!UICONTROL Edit]** option to make the necessary changes.
 
-1. Copy your **[!UICONTROL Webhook Verify toker]** generated here, then paste it into the Meta interface as part of your Webhook setup. 
+1. Copy your **[!UICONTROL Webhook Verify token]** generated here, then paste it into the Meta interface as part of your Webhook setup. 
 
     For detailed instructions on how and where to add this verification token, refer to [Meta documentation](https://developers.facebook.com/docs/graph-api/webhooks/getting-started#configure-webhooks-product).
 
