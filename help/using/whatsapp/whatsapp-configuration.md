@@ -78,7 +78,12 @@ After creating and configuring your API credential, you now need to create your 
 >
 >Without specified opt-in or opt-out keywords, standard consent messages are not enabled.
 
+>[!NOTE]
+>
+>Webhook configuration is required to gather the WhatsApp feedback data in the AJO reportig.
+
 Once your WhatsApp API credentials have been successfully created, the next step is to create a webhook and configure your inbound settings.
+Make sure to have the webhook configured in the WhatsApp application dashboard in the Meta UI as well.
 
 1. In the left rail, navigate to **[!UICONTROL Administration]** `>` **[!UICONTROL Channels]**, select the **[!UICONTROL WhatsApp Webhooks]** menu under **[!UICONTROL WhatsApp settings]**, and click the **[!UICONTROL Create Webhook]** button.
 
